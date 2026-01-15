@@ -1,6 +1,6 @@
 import React from 'react';
 import { FlatList, StyleSheet, View } from 'react-native';
-import Skeleton from './skeleton';
+import Skeleton from '../../../../components/skeleton/skeleton';
 
 const SkeletonGrid = () => {
   const data = Array.from({ length: 8 });

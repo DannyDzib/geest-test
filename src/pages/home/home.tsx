@@ -4,10 +4,10 @@ import useContactsHandler from './useContactsHandler';
 import CreateContact from './components/createContact';
 import Contacts from './components/contacts';
 import Tags from './components/tags';
-import { useModal } from '../../components/modal';
-import { SkeletonCards, SkeletonTags } from '../../components/skeleton';
-import Search from '../../components/search';
 import CreateContactAction from './components/createContactAction';
+import { SkeletonCards, SkeletonTags } from './components/skeletons';
+import { useModal } from '../../components/modal';
+import Search from '../../components/search';
 
 const Home = () => {
   const { open } = useModal();
