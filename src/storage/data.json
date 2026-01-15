@@ -1,0 +1,287 @@
+[
+  {
+    "id": "1",
+    "name": "Angel Daniel Dzib Chan",
+    "email": "angel1@empresa.com",
+    "phone": "9988774401",
+    "department": "Desarrollo"
+  },
+  {
+    "id": "2",
+    "name": "Paula Guzman",
+    "email": "paula2@empresa.com",
+    "phone": "9988774402",
+    "department": "Ventas"
+  },
+  {
+    "id": "3",
+    "name": "John Doe",
+    "email": "john3@empresa.com",
+    "phone": "9988774403",
+    "department": "Marketing"
+  },
+  {
+    "id": "4",
+    "name": "Jose Dzul",
+    "email": "jose4@empresa.com",
+    "phone": "9988774404",
+    "department": "Soporte"
+  },
+  {
+    "id": "5",
+    "name": "Maria Lopez",
+    "email": "maria5@empresa.com",
+    "phone": "9988774405",
+    "department": "Ventas"
+  },
+  {
+    "id": "6",
+    "name": "Carlos Hernandez",
+    "email": "carlos6@empresa.com",
+    "phone": "9988774406",
+    "department": "Desarrollo"
+  },
+  {
+    "id": "7",
+    "name": "Ana Martinez",
+    "email": "ana7@empresa.com",
+    "phone": "9988774407",
+    "department": "Marketing"
+  },
+  {
+    "id": "8",
+    "name": "Luis Perez",
+    "email": "luis8@empresa.com",
+    "phone": "9988774408",
+    "department": "Soporte"
+  },
+  {
+    "id": "9",
+    "name": "Fernanda Torres",
+    "email": "fernanda9@empresa.com",
+    "phone": "9988774409",
+    "department": "Ventas"
+  },
+  {
+    "id": "10",
+    "name": "Ricardo Molina",
+    "email": "ricardo10@empresa.com",
+    "phone": "9988774410",
+    "department": "Desarrollo"
+  },
+
+  {
+    "id": "11",
+    "name": "Daniel Reyes",
+    "email": "daniel11@empresa.com",
+    "phone": "9988774411",
+    "department": "Marketing"
+  },
+  {
+    "id": "12",
+    "name": "Sofia Cruz",
+    "email": "sofia12@empresa.com",
+    "phone": "9988774412",
+    "department": "Soporte"
+  },
+  {
+    "id": "13",
+    "name": "Miguel Angel Ruiz",
+    "email": "miguel13@empresa.com",
+    "phone": "9988774413",
+    "department": "Ventas"
+  },
+  {
+    "id": "14",
+    "name": "Laura Sanchez",
+    "email": "laura14@empresa.com",
+    "phone": "9988774414",
+    "department": "Desarrollo"
+  },
+  {
+    "id": "15",
+    "name": "Jorge Ramirez",
+    "email": "jorge15@empresa.com",
+    "phone": "9988774415",
+    "department": "Marketing"
+  },
+  {
+    "id": "16",
+    "name": "Diana Flores",
+    "email": "diana16@empresa.com",
+    "phone": "9988774416",
+    "department": "Soporte"
+  },
+  {
+    "id": "17",
+    "name": "Oscar Medina",
+    "email": "oscar17@empresa.com",
+    "phone": "9988774417",
+    "department": "Ventas"
+  },
+  {
+    "id": "18",
+    "name": "Gabriela Rios",
+    "email": "gabriela18@empresa.com",
+    "phone": "9988774418",
+    "department": "Desarrollo"
+  },
+  {
+    "id": "19",
+    "name": "Victor Navarro",
+    "email": "victor19@empresa.com",
+    "phone": "9988774419",
+    "department": "Marketing"
+  },
+  {
+    "id": "20",
+    "name": "Alejandra Ortiz",
+    "email": "alejandra20@empresa.com",
+    "phone": "9988774420",
+    "department": "Soporte"
+  },
+
+  {
+    "id": "21",
+    "name": "Rafael Castillo",
+    "email": "rafael21@empresa.com",
+    "phone": "9988774421",
+    "department": "Ventas"
+  },
+  {
+    "id": "22",
+    "name": "Monica Vega",
+    "email": "monica22@empresa.com",
+    "phone": "9988774422",
+    "department": "Desarrollo"
+  },
+  {
+    "id": "23",
+    "name": "Hector Luna",
+    "email": "hector23@empresa.com",
+    "phone": "9988774423",
+    "department": "Marketing"
+  },
+  {
+    "id": "24",
+    "name": "Claudia Campos",
+    "email": "claudia24@empresa.com",
+    "phone": "9988774424",
+    "department": "Soporte"
+  },
+  {
+    "id": "25",
+    "name": "Ivan Pacheco",
+    "email": "ivan25@empresa.com",
+    "phone": "9988774425",
+    "department": "Ventas"
+  },
+
+  {
+    "id": "26",
+    "name": "Patricia Mendoza",
+    "email": "patricia26@empresa.com",
+    "phone": "9988774426",
+    "department": "Desarrollo"
+  },
+  {
+    "id": "27",
+    "name": "Eduardo Silva",
+    "email": "eduardo27@empresa.com",
+    "phone": "9988774427",
+    "department": "Marketing"
+  },
+  {
+    "id": "28",
+    "name": "Veronica Nunez",
+    "email": "veronica28@empresa.com",
+    "phone": "9988774428",
+    "department": "Soporte"
+  },
+  {
+    "id": "29",
+    "name": "Julio Cabrera",
+    "email": "julio29@empresa.com",
+    "phone": "9988774429",
+    "department": "Ventas"
+  },
+  {
+    "id": "30",
+    "name": "Karla Romero",
+    "email": "karla30@empresa.com",
+    "phone": "9988774430",
+    "department": "Desarrollo"
+  },
+
+  {
+    "id": "31",
+    "name": "Andres Beltran",
+    "email": "andres31@empresa.com",
+    "phone": "9988774431",
+    "department": "Marketing"
+  },
+  {
+    "id": "32",
+    "name": "Natalia Ibarra",
+    "email": "natalia32@empresa.com",
+    "phone": "9988774432",
+    "department": "Soporte"
+  },
+  {
+    "id": "33",
+    "name": "Sebastian Leon",
+    "email": "sebastian33@empresa.com",
+    "phone": "9988774433",
+    "department": "Ventas"
+  },
+  {
+    "id": "34",
+    "name": "Marcos Figueroa",
+    "email": "marcos34@empresa.com",
+    "phone": "9988774434",
+    "department": "Desarrollo"
+  },
+  {
+    "id": "35",
+    "name": "Elena Acosta",
+    "email": "elena35@empresa.com",
+    "phone": "9988774435",
+    "department": "Marketing"
+  },
+
+  {
+    "id": "36",
+    "name": "Rodrigo Salinas",
+    "email": "rodrigo36@empresa.com",
+    "phone": "9988774436",
+    "department": "Soporte"
+  },
+  {
+    "id": "37",
+    "name": "Carmen Valdez",
+    "email": "carmen37@empresa.com",
+    "phone": "9988774437",
+    "department": "Ventas"
+  },
+  {
+    "id": "38",
+    "name": "Emilio Cortes",
+    "email": "emilio38@empresa.com",
+    "phone": "9988774438",
+    "department": "Desarrollo"
+  },
+  {
+    "id": "39",
+    "name": "Lorena Peña",
+    "email": "lorena39@empresa.com",
+    "phone": "9988774439",
+    "department": "Marketing"
+  },
+  {
+    "id": "40",
+    "name": "Francisco Aguilar",
+    "email": "francisco40@empresa.com",
+    "phone": "9988774440",
+    "department": "Soporte"
+  }
+]
